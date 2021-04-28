@@ -1,5 +1,8 @@
 # termos
 
+esse é um projeto teste para centralizar termos ou arquivos estáticos dos sistemas.
+Se não for usado vamos remover
+
 ## Build Setup
 
 ```bash
